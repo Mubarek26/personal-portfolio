@@ -50,9 +50,3 @@ npm run test
 - If you see `'vite' is not recognized` when running `npm run dev`, make sure you ran `npm install` and run the script through `npm run dev` (npm will use the local binary).
 - During dependency installation a peer dependency conflict was resolved using `--legacy-peer-deps`. To fix permanently, consider upgrading or removing the `lovable-tagger` dev dependency or pinning `vite` to a compatible version.
 
-## Next steps
-
-- Commit README and push to your repository if desired.
-# Welcome to your Lovable project
-
-TODO: Document your project here
